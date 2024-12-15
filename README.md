@@ -1,1 +1,3 @@
 # Elon-Musk-tribute
+Elon Musk is a businessman known for his key roles in the space company SpaceX and the automotive company Tesla, Inc. His other involvements include ownership of X Corp., the company that operates the social media platform X (formerly Twitter), and his role in the founding of the Boring Company, xAI, Neuralink, and OpenAI. Musk is the wealthiest individual in the world; as of December 2024, Forbes estimates his net worth to be US$432 billion.
+I dedicated this tribute page for him . With the help of freeCodeCamp community, I made this to show gratitude to him for what Elon has done to make this world better.
